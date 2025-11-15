@@ -1,9 +1,9 @@
 # c-problem-solvings
 
-This repository contains a collection of C++ problem-solving tasks that I completed a long time ago when I first started learning how to program.
+This repository contains a collection of C++ problem-solving tasks And 2 Simple projects that I completed a long time ago when I first started learning how to program.
 At the time, my focus was on understanding:
 
-Basics of programmin
+Basics of programming
 
 Control flow (loops, conditionals, branching)
 
