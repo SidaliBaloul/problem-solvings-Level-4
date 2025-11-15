@@ -1,7 +1,10 @@
 # c-problem-solvings
 
+
+
 This repository contains a collection of C++ problem-solving tasks And 2 Simple projects that I completed a long time ago when I first started learning how to program.
-At the time, my focus was on understanding:
+At the time from course Programming Advices in Dr.Abu Hadhoud's roadmap
+my focus was on understanding:
 
 Basics of programming
 
